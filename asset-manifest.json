@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bbdb76be.css",
+    "main.js": "/portfolio/static/js/main.59854ae1.js",
+    "static/media/FotoFrente_.png": "/portfolio/static/media/FotoFrente_.9c4d1dcd3de4845e9866.png",
+    "static/media/dale-vida.png": "/portfolio/static/media/dale-vida.3d707f34714c80760185.png",
+    "static/media/coffee-off.png": "/portfolio/static/media/coffee-off.4a951d93d697e9cba587.png",
+    "static/media/mis-notas.png": "/portfolio/static/media/mis-notas.2eb17c2c24d7ad82a7aa.png",
+    "static/media/bg-2.png": "/portfolio/static/media/bg-2.307b783e3a832eaffc9e.png",
+    "static/media/pokedex.png": "/portfolio/static/media/pokedex.6b298632bd0aac7316b6.png",
+    "static/media/about-me.png": "/portfolio/static/media/about-me.346db5ccd3fd5bc17939.png",
+    "index.html": "/portfolio/index.html",
+    "main.bbdb76be.css.map": "/portfolio/static/css/main.bbdb76be.css.map",
+    "main.59854ae1.js.map": "/portfolio/static/js/main.59854ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdb76be.css",
+    "static/js/main.59854ae1.js"
+  ]
+}
