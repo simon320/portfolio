@@ -37,7 +37,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <MdAccessibilityNew className="about__icon" />
-              <h5>Acsesibilidad</h5>
+              <h5>Accesibilidad</h5>
             </article>
 
             <article className="about__card">
