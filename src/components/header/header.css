@@ -1,0 +1,96 @@
+header {
+    height: 100vh;
+    padding-top: 4rem;
+    margin-bottom: 350px;
+}
+
+.header__container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+/* ----------------------------  HEADER SOCIALS ----------------------------*/
+.header__socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: fixed;
+    right: 3.3rem;
+    bottom: 5rem;
+}
+
+.header__socials::after {
+    content: '';
+    width: 1px;
+    height: 5rem;
+    background: var(--color-primary);
+}
+
+/* -------------------------- ME -------------------------- */
+.me {
+    background: linear-gradient(transparent, var(--color-primary) );
+    width: 22rem;   
+    height: 35rem;
+    position: absolute;
+    top: 70px;
+    left: calc(50% - 11rem);
+    border-radius: 0 0 12rem 12rem;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem 1.5rem;
+}
+
+/* -------------------------- SCROLLDOWN -------------------------- */
+.contact__mail {
+    position: fixed;
+    left: -1.3rem;
+    bottom: 18rem;
+    transform: rotate(-90deg);
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
+.contact__mail::before {
+    content: '';
+    position: fixed;
+    transform: translate(-65px, -34px) rotate(-90deg);
+    width: 1px;
+    height: 6rem;
+    background: var(--color-primary);
+}
+
+/* ---------------------------  MEDIA QUERIES (MEDIUM DEVICES) -----------------------------*/
+@media screen and (max-width: 1024px) {
+    header {
+        height: 68vh;
+    }
+    
+    .header__socials {
+        bottom: 7rem;
+    }
+
+    .scroll__down {
+        bottom: 10rem;
+    }
+
+}
+
+/* ---------------------------  MEDIA QUERIES (SMALL DEVICES) -----------------------------*/
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+
+    .header__socials, .scroll__down {
+        display: none;
+    }
+
+    .contact__mail {
+        display: none;
+    }
+
+    h5 {
+        font-size: 1rem;
+    }
+}
