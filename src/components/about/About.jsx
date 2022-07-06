@@ -25,8 +25,7 @@ const About = () => {
             micro-controlador en el cual se usa un lenguaje similar a C++ para
             asignarle las entradas y salidas. Ahi descubri mi pasion por crear a
             traves de escribir codigo. En mi camino como desarrollador indague
-            por leguajes como Java y Python, hasta que en el desarrollo web
-            encontre mi lugar.
+            por leguajes como Java, Python y Javascript.
           </p>
           <p>
             Hoy en dia, desarrollo el Frontend de mis aplicaciones y uso

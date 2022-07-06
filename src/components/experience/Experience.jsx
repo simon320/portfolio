@@ -11,7 +11,8 @@ import {
   SiAdobeillustrator,
   SiAdobexd,
   SiFirebase,
-  SiRedux
+  SiRedux,
+  SiPython
 } from "react-icons/si";
 
 const Experience = () => {
@@ -24,7 +25,7 @@ const Experience = () => {
       <div className="container experience__container">
 
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Lenguajes y Herramientas</h3>
           <div className="experience__content">
             <article className="experience__details">
               <SiHtml5 className="experience__details-icon" />
@@ -66,6 +67,12 @@ const Experience = () => {
               <SiRedux className="experience__details-icon" />
               <div>
                 <h4>Redux</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiPython className="experience__details-icon" />
+              <div>
+                <h4>Python</h4>
               </div>
             </article>
           </div>
