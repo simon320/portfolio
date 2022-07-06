@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bbdb76be.css",
-    "main.js": "/portfolio/static/js/main.e0ee5fbe.js",
+    "main.js": "/portfolio/static/js/main.66445fe5.js",
     "static/media/FotoFrente_.png": "/portfolio/static/media/FotoFrente_.9c4d1dcd3de4845e9866.png",
     "static/media/dale-vida.png": "/portfolio/static/media/dale-vida.3d707f34714c80760185.png",
     "static/media/coffee-off.png": "/portfolio/static/media/coffee-off.4a951d93d697e9cba587.png",
@@ -11,10 +11,10 @@
     "static/media/about-me.png": "/portfolio/static/media/about-me.346db5ccd3fd5bc17939.png",
     "index.html": "/portfolio/index.html",
     "main.bbdb76be.css.map": "/portfolio/static/css/main.bbdb76be.css.map",
-    "main.e0ee5fbe.js.map": "/portfolio/static/js/main.e0ee5fbe.js.map"
+    "main.66445fe5.js.map": "/portfolio/static/js/main.66445fe5.js.map"
   },
   "entrypoints": [
     "static/css/main.bbdb76be.css",
-    "static/js/main.e0ee5fbe.js"
+    "static/js/main.66445fe5.js"
   ]
 }
