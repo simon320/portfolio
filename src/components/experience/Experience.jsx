@@ -26,7 +26,7 @@ const Experience = () => {
     <section id="experience">
       
       <h5>Algunas de las Tecnologias con las que hoy trabajo</h5>
-      <h2>Experiencia en..</h2>
+      <h2>Experiencia en...</h2>
 
       <div className="container experience__container">
 
