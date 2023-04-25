@@ -12,7 +12,13 @@ import {
   SiAdobexd,
   SiFirebase,
   SiRedux,
-  SiPython
+  SiAngular,
+  SiTypescript,
+  SiMongodb,
+  SiJira,
+  SiTrello,
+  SiNodedotjs,
+  SiNestjs
 } from "react-icons/si";
 
 const Experience = () => {
@@ -58,6 +64,12 @@ const Experience = () => {
               </div>
             </article>
             <article className="experience__details">
+              <SiTypescript className="experience__details-icon" />
+              <div>
+                <h4>TypeScript</h4>
+              </div>
+            </article>
+            <article className="experience__details">
               <SiReact className="experience__details-icon" />
               <div>
                 <h4>React</h4>
@@ -70,9 +82,9 @@ const Experience = () => {
               </div>
             </article>
             <article className="experience__details">
-              <SiPython className="experience__details-icon" />
+              <SiAngular className="experience__details-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>Angular</h4>
               </div>
             </article>
           </div>
@@ -82,9 +94,39 @@ const Experience = () => {
           <h3>Otros Conocimientos</h3>
           <div className="experience__content">
             <article className="experience__details">
+              <SiNodedotjs className="experience__details-icon" />
+              <div>
+                <h4>NodeJs</h4>
+              </div>
+            </article>
+            <article className="experience__details">
               <SiFirebase className="experience__details-icon" />
               <div>
                 <h4>Firebase</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiMongodb className="experience__details-icon" />
+              <div>
+                <h4>MongoDB</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiNestjs className="experience__details-icon" />
+              <div>
+                <h4>NestJs</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiJira className="experience__details-icon" />
+              <div>
+                <h4>Jira</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiTrello className="experience__details-icon" />
+              <div>
+                <h4>Trello</h4>
               </div>
             </article>
             <article className="experience__details">
