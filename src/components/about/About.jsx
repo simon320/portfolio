@@ -28,9 +28,8 @@ const About = () => {
             por leguajes como Java, Python y Javascript.
           </p>
           <p>
-            Hoy en dia, desarrollo el Frontend de mis aplicaciones y uso
-            Firebase como Backend, mientras me desarrollo como Fullstack con
-            tecnologias como NodeJs.
+            Hoy en dia, desarrollo el Frontend de mis aplicaciones con React o Angular,
+            Y el Backend con Node.
           </p>
 
           <div className="about__cards">
